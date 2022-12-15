@@ -20,18 +20,18 @@
     <a 
     href="https://www.linkedin.com/in/paulopbi/" 
     target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" 
     height="30em">
     </a>
     <!--BEHANCE-->
     <a 
     href="https://www.behance.net/paulopbi" 
     target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" 
+    <img src="https://img.shields.io/badge/-Behance-000000?style=for-the-badge&logo=behance&logoColor=white" 
     height="30em">
 <!--GITHUB-->
   <a href="https://github.com/paulopbi" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white" height="30em">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="30em">
   </a>
   </p>
 </div>
@@ -44,7 +44,10 @@ Alguns desses códigos eu fiz no papel e passei eles para as lingagens que apren
 As linguagens que utilizei
 
 - [x] Linguagem C
-- [x] Javascript
+- [x] Javascript / Node
+
+## Requisitos
+Você precisará ter o [Node.JS](https://nodejs.org/en/) instalado no seu computador para executar os arquivos **.JS (JavaScript)** fora do Browser. <br>
 
 ## Como começar
 você pode fazer um clone do projeto e treinar ou testar esses algoritimos no seu computador, escrevendo no terminal
@@ -52,3 +55,7 @@ você pode fazer um clone do projeto e treinar ou testar esses algoritimos no se
 ```
 git@github.com:paulopbi/algoritimos.git
 ```
+
+<br>
+
+<a href="#top">Voltar ao inicio</a>
