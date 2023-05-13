@@ -37,11 +37,11 @@
 </div>
 
 ## Sobre
-Um repositório com alguns algoritimos que fiz para treinar minha lógica de programação. 
+Um repositório com alguns algoritimos que fiz para treinar a lógica de programação. 
 
 Alguns desses códigos eu fiz no papel e passei eles para as lingagens que aprendo no meu dia a dia!
 
-As linguagens que utilizei
+As linguagens que utilizei:
 
 - [x] Linguagem C
 - [x] Javascript / Node
@@ -52,8 +52,8 @@ Você precisará ter o [Node.JS](https://nodejs.org/en/) instalado no seu comput
 ## Como começar
 você pode fazer um clone do projeto e treinar ou testar esses algoritimos no seu computador, escrevendo no terminal
 
-```
-git@github.com:paulopbi/algoritimos.git
+```console
+$ git clone git@github.com:paulopbi/algoritimos.git
 ```
 
 <br>
