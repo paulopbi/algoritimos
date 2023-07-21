@@ -45,14 +45,15 @@ As linguagens que utilizei:
 
 - [x] Linguagem C
 - [x] Javascript / Node
+- [x] Java
 
 ## Requisitos
-Você precisará ter o [Node.JS](https://nodejs.org/en/) instalado no seu computador para executar os arquivos **.JS (JavaScript)** fora do Browser. <br>
+Você precisará ter o [Node.JS](https://nodejs.org/en/) instalado no seu computador para executar os arquivos **.JS (JavaScript)** fora do Browser, ter o [JDK (Java Development Kit)](https://www.oracle.com/br/java/technologies/downloads/#jdk20-windows) para executar os códigos em Java. <br>
 
 ## Como começar
 você pode fazer um clone do projeto e treinar ou testar esses algoritimos no seu computador, escrevendo no terminal
 
-```console
+```shell
 $ git clone git@github.com:paulopbi/algoritimos.git
 ```
 
